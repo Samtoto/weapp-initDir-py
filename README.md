@@ -6,7 +6,11 @@
 2 在 workspace 中填入微信的工程地址  
 3 在 applicationName 中填入你要创建的项目地址  
 4 运行 `python path/initWeAppFiles.py`  
- 
+
+## TODO
+[] 函数式、美化code
+[] 增加选项 argparse
+
 ## 测试情况
 Win7 python 2.7  
 

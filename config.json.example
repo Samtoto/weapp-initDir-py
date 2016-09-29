@@ -1,0 +1,8 @@
+{
+    "workspace": "C:/wxCode",
+    "applicationName": "weappInitTest",
+    "initFiles": [
+        "Index/Test/index",
+        "Log/log"
+    ]
+}

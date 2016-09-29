@@ -8,8 +8,8 @@
 4 运行 `python path/initWeAppFiles.py`  
 
 ## TODO
-[] 函数式、美化code
-[] 增加选项 argparse
+- [] 函数式、美化code  
+- [] 增加选项 argparse  
 
 ## 测试情况
 Win7 python 2.7  
